@@ -42,7 +42,7 @@ print(result["answer"])
 .
 ├── .env               # API keys (not pushed)
 ├── .env.example       # Example placeholder
-├── rag_pipeline.py    # Main code
+├── rag.py    # Main code
 ├── README.md          # This file
 ├── requirements.txt   # Dependencies
 ```
